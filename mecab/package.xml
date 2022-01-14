@@ -166,9 +166,11 @@
    <file baseinstalldir="/" md5sum="1630c5f0b1f7bc7061de2dc088f96fac" name="mecab.dsp" role="src" />
    <file baseinstalldir="/" md5sum="ee5758e03ba009b58cf6239af2dd8b13" name="mecab5.c" role="src" />
    <file baseinstalldir="/" md5sum="74f8a78cbe2da07af11877c52e64f405" name="mecab7.c" role="src" />
+   <file baseinstalldir="/" md5sum="371ea0259ca6272f1faee65dd2d83c9a" name="mecab8.c" role="src" />
    <file baseinstalldir="/" md5sum="cb366b2ef065721be187403d84440239" name="php_mecab.h" role="src" />
    <file baseinstalldir="/" md5sum="f6b0aeb1dccb5d4585d208e092053b46" name="php_mecab_compat5.h" role="src" />
    <file baseinstalldir="/" md5sum="4f592024e21ea12d12c3a7859a2b25f8" name="php_mecab_compat7.h" role="src" />
+   <file baseinstalldir="/" md5sum="e86de908d7e7b4fb09415d2804a5369d" name="php_mecab_compat8.h" role="src" />
    <file baseinstalldir="/" md5sum="0bf72f97ed447492ae9bae1574e811fa" name="README" role="doc" />
   </dir>
  </contents>
